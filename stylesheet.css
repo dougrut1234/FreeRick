@@ -1,0 +1,46 @@
+body
+{
+  background-color: #FEF9E7;
+}
+
+h1
+{
+  font-size: 45px;
+  text-align:center;
+  font-family:"Comic Sans MS", sans-serif;
+}
+
+.rick
+{
+    height: 575px;
+    margin: auto;
+    width: 98%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.button
+{
+font-size: 30px;
+font-style: italic;
+text-align: center;
+font-family:"Comic Sans MS", sans-serif;
+}
+
+/*.button
+{
+  width: auto;
+  height: auto;
+  padding: 5px;
+}*/
+
+a
+{
+  border: 3px solid black;
+}
+
+p
+{
+font-size:  20px;
+font-family:"Comic Sans MS", sans-serif;
+}
